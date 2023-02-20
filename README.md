@@ -17,7 +17,7 @@ MERN stack book search application that utilizes Google Books API, GraphQL with 
  
   
 ## Usage
-Enter [this url](#) in browser.
+Enter [this url](https://immense-brook-55099.herokuapp.com/) in browser.
    
 ## Technologies
 * Google Books API
